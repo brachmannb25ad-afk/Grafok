@@ -6,7 +6,6 @@ body {
   background-image: url(big-graph.png);
   background-position: top center;
 }
-
 p:first-letter {
   margin-left: 15px;
 }
@@ -39,4 +38,20 @@ h3 {
 
 a {
   color: red;
+}
+
+
+#jobbra{
+float: right;
+text-align: center;
+border: 1px solid #FF0000;
+background-color:FFFFFF;
+margin: 10px;
+padding: 10px;
+font-style: italic;
+font-size: 0.7em;
+color: #FF0000;
+}
+#jobbra img{
+width: 400px;
 }
